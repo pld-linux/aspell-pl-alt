@@ -1,12 +1,12 @@
 Summary:	An alternative Polish dictionary for aspell by kurnik.pl
 Summary(pl):	Alternatywny polski s³ownik dla ispella autorstwa kurnik.pl
 Name:		aspell-pl-alt
-Version:	20030820
+Version:	20030909
 Release:	1
 License:	Creative Commons License (see legalcode.html)
 Group:		Applications/Text
 Source0:	http://www.kurnik.pl/slownik/ort/alt-aspell-pl-%{version}.tar.gz
-# Source0-md5:	ff4e147d0964a75decce171c99dbc98f
+# Source0-md5:	918fa438458fcdd2eb9fb71c606ffe86
 Source1:	http://creativecommons.org/licenses/sa/1.0/legalcode
 URL:		http://www.kurnik.pl/slownik/ort/
 BuildRequires:	aspell >= 0.50.0
@@ -34,7 +34,6 @@ Zapraszamy na http://www.kurnik.pl/slownik/ .
 %build
 # note: configure is not autoconf-generated
 ./configure
-
 %{__make}
 
 cp %{SOURCE1} ./legalcode.html
