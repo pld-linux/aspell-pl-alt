@@ -1,5 +1,5 @@
 Summary:	An alternative Polish dictionary for aspell by kurnik.pl
-Summary(pl):	Alternatywny polski s³ownik dla ispella autorstwa kurnik.pl
+Summary(pl):	Alternatywny polski s³ownik dla aspella autorstwa kurnik.pl
 Name:		aspell-pl-alt
 Version:	20040928
 Release:	1
