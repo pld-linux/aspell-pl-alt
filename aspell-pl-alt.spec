@@ -6,7 +6,7 @@ Release:	1
 License:	Creative Commons License (see legalcode.html)
 Group:		Applications/Text
 Source0:	http://www.kurnik.pl/slownik/ort/alt-aspell-pl-%{version}.tar.gz
-# Source0-md5:	a9e25e3290676f41b9a0187858d18823
+# Source0-md5:	ce1623d83a9acebf637d1ea923923839
 Source1:	http://creativecommons.org/licenses/sa/1.0/legalcode
 URL:		http://www.kurnik.pl/slownik/ort/
 BuildRequires:	aspell >= 0.50.0
