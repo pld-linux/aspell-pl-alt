@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Alternative Polish dictionary for aspell, done for gaming purposes
-initially, at the moment contains 2.2 million words and has one of the
+initially, at the moment contains 2.9 million words and has one of the
 best grammatic rules.
 
 Visit http://www.kurnik.pl/slownik/ once in awhile.
@@ -25,7 +25,7 @@ Visit http://www.kurnik.pl/slownik/ once in awhile.
 %description -l pl
 Alternatywny polski s³ownik dla programu aspell, na pocz±tku tworzony
 do gier ortograficznych, z czasem przerodzi³ siê w jeden z
-najwiêkszych (2,2 mln. s³ów), najlepiej ubogaconych (m.in. w zasady
+najwiêkszych (2,9 mln. s³ów), najlepiej ubogaconych (m.in. w zasady
 gramatyczne) oraz najszybciej rozwijanych s³owników.
 
 Zapraszamy na http://www.kurnik.pl/slownik/ .
