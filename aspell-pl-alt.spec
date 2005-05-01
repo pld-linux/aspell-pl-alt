@@ -29,7 +29,7 @@ do gier ortograficznych, z czasem przerodzi³ siê w jeden z
 najwiêkszych (2,9 mln. s³ów), najlepiej ubogaconych (m.in. w zasady
 gramatyczne) oraz najszybciej rozwijanych s³owników.
 
-Zapraszamy na http://www.kurnik.pl/slownik/ .
+Zapraszamy na <http://www.kurnik.pl/slownik/>.
 
 %prep
 %setup -q -n alt-aspell-pl-%{version}
