@@ -1,5 +1,5 @@
 Summary:	An alternative Polish dictionary for aspell by kurnik.pl
-Summary(pl):	Alternatywny polski s³ownik dla aspella autorstwa kurnik.pl
+Summary(pl.UTF-8):   Alternatywny polski sÅ‚ownik dla aspella autorstwa kurnik.pl
 Name:		aspell-pl-alt
 Version:	20060902
 Release:	1
@@ -22,11 +22,11 @@ best grammatic rules.
 
 Visit http://www.kurnik.pl/slownik/ once in awhile.
 
-%description -l pl
-Alternatywny polski s³ownik dla programu aspell, na pocz±tku tworzony
-do gier ortograficznych, z czasem przerodzi³ siê w jeden z
-najwiêkszych (2,9 mln. s³ów), najlepiej ubogaconych (m.in. w zasady
-gramatyczne) oraz najszybciej rozwijanych s³owników.
+%description -l pl.UTF-8
+Alternatywny polski sÅ‚ownik dla programu aspell, na poczÄ…tku tworzony
+do gier ortograficznych, z czasem przerodziÅ‚ siÄ™ w jeden z
+najwiÄ™kszych (2,9 mln. sÅ‚Ã³w), najlepiej ubogaconych (m.in. w zasady
+gramatyczne) oraz najszybciej rozwijanych sÅ‚ownikÃ³w.
 
 Zapraszamy na <http://www.kurnik.pl/slownik/>.
 
