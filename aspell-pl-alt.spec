@@ -2,7 +2,7 @@ Summary:	An alternative Polish dictionary for aspell by kurnik.pl
 Summary(pl.UTF-8):	Alternatywny polski słownik dla aspella autorstwa kurnik.pl
 Name:		aspell-pl-alt
 Version:	20070618
-Release:	1
+Release:	2
 License:	Creative Commons License (see legalcode.html)
 Group:		Applications/Text
 Source0:	http://www.kurnik.org/dictionary/alt-aspell6-pl-6.0_%{version}-0.tar.bz2
@@ -12,7 +12,7 @@ Source1:	http://creativecommons.org/licenses/sa/1.0/legalcode
 URL:		http://www.kurnik.pl/slownik/ort/
 BuildRequires:	aspell >= 3:0.60.0
 Requires:	aspell >= 3:0.60.0
-Obsoletes:	aspell-pl
+Conflicts:	aspell-pl
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
