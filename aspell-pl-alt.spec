@@ -11,6 +11,7 @@ Source1:	http://creativecommons.org/licenses/sa/1.0/legalcode
 # Source1-md5:	0ed76e90db3d98d93cf6f7a610c10f77
 URL:		http://www.kurnik.pl/slownik/ort/
 BuildRequires:	aspell >= 3:0.60.0
+BuildRequires:	which
 Requires:	aspell >= 3:0.60.0
 Conflicts:	aspell-pl
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
