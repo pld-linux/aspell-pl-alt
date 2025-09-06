@@ -1,12 +1,12 @@
 Summary:	SJP.pl Polish dictionary for aspell
 Summary(pl.UTF-8):	Słownik polski SJP.pl aspella
 Name:		aspell-pl-alt
-Version:	20240701
+Version:	20250901
 Release:	1
 License:	Creative Commons License (see legalcode.html)
 Group:		Applications/Text
 Source0:	http://sjp.pl/slownik/ort/sjp-aspell6-pl-6.0_%{version}-0.tar.bz2
-# Source0-md5:	4a04aea334b672626c72a907443ad615
+# Source0-md5:	60d26a9891c0964187752e1b030c8896
 Source1:	http://creativecommons.org/licenses/sa/1.0/legalcode
 # Source1-md5:	0ed76e90db3d98d93cf6f7a610c10f77
 URL:		http://www.sjp.pl/slownik/ort/
