@@ -14,6 +14,7 @@ BuildRequires:	aspell >= 3:0.60.0
 BuildRequires:	which
 Requires:	aspell >= 3:0.60.0
 Conflicts:	aspell-pl
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 # disable debug data
@@ -53,7 +54,7 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc README Copyright legalcode.html
-%{_libdir}/aspell/pl.*
-%{_libdir}/aspell/polish.alias
+%{_prefix}/lib/aspell/pl.*
+%{_prefix}/lib/aspell/polish.alias
 %{_datadir}/aspell/pl.dat
 %{_datadir}/aspell/pl_affix.dat
